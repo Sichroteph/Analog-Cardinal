@@ -1,2 +1,2 @@
-# Analog-Cardinal
-This is for a Pebble configuration page
+# Weather-Graph-ForecastIO
+pebble configuration page
